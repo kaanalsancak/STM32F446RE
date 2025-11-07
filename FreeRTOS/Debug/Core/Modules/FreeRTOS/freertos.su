@@ -1,0 +1,6 @@
+../Core/Modules/FreeRTOS/freertos.c:74:6:vFreeRTOS_Init	8	static
+../Core/Modules/FreeRTOS/freertos.c:126:6:vApplicationGetIdleTaskMemory	24	static
+../Core/Modules/FreeRTOS/freertos.c:168:6:vApplicationGetTimerTaskMemory	24	static
+../Core/Modules/FreeRTOS/freertos.c:207:6:vAssertCalled	24	static,ignoring_inline_asm
+../Core/Modules/FreeRTOS/freertos.c:275:14:xGreenLedTaskStart	32	static,ignoring_inline_asm
+../Core/Modules/FreeRTOS/freertos.c:294:6:vGreenLedTask	16	static

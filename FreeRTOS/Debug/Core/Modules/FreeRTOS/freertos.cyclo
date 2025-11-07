@@ -1,0 +1,6 @@
+../Core/Modules/FreeRTOS/freertos.c:74:6:vFreeRTOS_Init	1
+../Core/Modules/FreeRTOS/freertos.c:126:6:vApplicationGetIdleTaskMemory	1
+../Core/Modules/FreeRTOS/freertos.c:168:6:vApplicationGetTimerTaskMemory	1
+../Core/Modules/FreeRTOS/freertos.c:207:6:vAssertCalled	1
+../Core/Modules/FreeRTOS/freertos.c:275:14:xGreenLedTaskStart	2
+../Core/Modules/FreeRTOS/freertos.c:294:6:vGreenLedTask	1
